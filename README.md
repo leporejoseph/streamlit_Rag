@@ -4,10 +4,10 @@ Streamlit RAG Chatbot is a powerful and interactive web application built with *
 <table>
   <tr>
     <td>
-      <img src="content/chatbot_ui_1.png" alt="Chatbot UI Screenshot 1" width="400"/>
+      <img src="Streamlit_RAG_Upload.png" alt="Chatbot UI Screenshot 1" width="400"/>
     </td>
     <td>
-      <img src="content/chatbot_ui_2.png" alt="Chatbot UI Screenshot 2" width="400"/>
+      <img src="Streamlit_RAG_Results.png" alt="Chatbot UI Screenshot 2" width="400"/>
     </td>
   </tr>
 </table>
