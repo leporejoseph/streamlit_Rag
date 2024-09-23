@@ -1,16 +1,10 @@
 # Streamlit RAG Chatbot
 Streamlit RAG Chatbot is a powerful and interactive web application built with **Streamlit** that allows users to chat with an AI assistant. The application integrates **ChromaDB** for document embedding and search functionalities and uses **Groq** to handle queries efficiently. The system supports both Flat and Funnel Retrieval-Augmented Generation (RAG) search methods, offering a flexible search experience.
 
-<table>
-  <tr>
-    <td>
-      <img src="content/Streamlit_RAG_Upload.png" alt="Chatbot UI Screenshot 1" width="400"/>
-    </td>
-    <td>
-      <img src="content/Streamlit_RAG_Results.png" alt="Chatbot UI Screenshot 2" width="400"/>
-    </td>
-  </tr>
-</table>
+# Screenshots
+![Streamlit_RAG_Upload](https://github.com/user-attachments/assets/a29f1e71-3737-4a44-a26e-aa512af57a4e)
+![Streamlit_RAG_Results](https://github.com/user-attachments/assets/8478f625-8f3f-4ce4-95e5-39df37602867)
+
 
 ## Features
 
@@ -53,8 +47,8 @@ To set up the LLM Chatbot application, follow these steps:
 llm-chatbot/
 │
 ├── content/                     # Images and other media files
-│   ├── chatbot_ui_1.png
-│   └── chatbot_ui_2.png
+│   ├── Streamlit_RAG_Results.png
+│   └── Streamlit_RAG_Upload.png
 ├── documents/                   # Uploaded documents for vectorization
 ├── chroma_db/                   # ChromaDB files
 ├── main.py                      # Main application script
