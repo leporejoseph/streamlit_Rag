@@ -1,0 +1,7 @@
+streamlit==1.38.0
+pandas==2.2.2
+chromadb==0.5.3
+groq==0.11.0
+Pillow==10.4.0
+numpy==1.26.4
+typing-extensions==4.12.2
